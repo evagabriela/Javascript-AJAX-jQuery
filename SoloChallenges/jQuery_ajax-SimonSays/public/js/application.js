@@ -34,23 +34,3 @@ $(document).ready(function(){
 
 });
 
-
-// ========> From Index.erb: <=========
-
-    // <div class="container">
-    //   <h1>Simple Simon Says</h1>
-
-    //   <a id="get_color" href="#">Click Me</a>
-    // </div>
-      
-    // <ul id="color_me">
-    //   <li></li>
-    //   <li></li>
-    //   <li></li>
-    //   <li></li>
-    //   <li></li>
-    //   <li></li>
-    //   <li></li>
-    //   <li></li>
-    //   <li></li>
-    // </ul>
